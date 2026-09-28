@@ -1,0 +1,4 @@
+gbemu
+*.o
+__pycache__/
+*.pyc
